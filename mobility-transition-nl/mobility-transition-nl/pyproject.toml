@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mobility_transition"
+version = "0.1.0"
+description = "PC4-level PT and EV accessibility and mobility-transition analysis for the Netherlands (ODiN 2022-2023)"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]

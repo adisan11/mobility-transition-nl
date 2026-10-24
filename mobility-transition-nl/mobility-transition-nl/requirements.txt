@@ -1,0 +1,12 @@
+numpy>=2.0          # np.trapezoid
+pandas>=2.2
+geopandas>=0.14
+shapely>=2.0
+pyogrio>=0.7
+matplotlib>=3.9     # boxplot(tick_labels=...)
+scipy>=1.11
+patsy>=0.5
+osmium>=3.6
+tqdm>=4.66
+jinja2>=3.1          # LaTeX table export (DataFrame.to_latex)
+mapclassify>=2.6   # quantile-classed maps

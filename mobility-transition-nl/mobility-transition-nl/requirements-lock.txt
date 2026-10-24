@@ -1,0 +1,13 @@
+# Exact versions the demo pipeline was tested with (Python 3.12). For flexible installs use requirements.txt.
+numpy==2.4.4
+pandas==3.0.2
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+matplotlib==3.10.8
+scipy==1.17.1
+patsy==1.0.3
+osmium==4.3.2
+tqdm==4.70.1
+mapclassify==2.11.0
+jinja2==3.1.6
