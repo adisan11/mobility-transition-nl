@@ -1,6 +1,5 @@
 # Mobility transition in the Netherlands: PT and EV accessibility at PC4 level
 
-[!\[demo-pipeline](https://github.com/adisan11/mobility-transition-nl/actions/workflows/demo-pipeline.yml/badge.svg)](https://github.com/YOUR-USERNAME/mobility-transition-nl/actions/workflows/demo-pipeline.yml)
 
 Code for an MSc thesis on structural car dependence and the availability of low-carbon alternatives in the
 Netherlands, using the ODiN 2022–2023 travel survey. It builds population-weighted PC4 centroids, public-transport and
